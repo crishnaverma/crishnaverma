@@ -1,103 +1,130 @@
-# Hi 👋, I'm Krishna Verma
+<!-- AI ENGINEER BANNER -->
 
-🎓 BTech CSE (AI & Robotics) Student
-🤖 Passionate about Artificial Intelligence, Machine Learning & Robotics
-💻 Future AI Engineer | Building Skills Everyday
-🚀 Goal: Become Top 10% AI Engineer in the Industry
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
----
+<!-- TYPING ANIMATION -->
 
-## 🚀 About Me
-
-* 🌱 Currently learning **Python, C++, SQL, Data Structures, Machine Learning**
-* 🤖 Interested in **AI, Robotics, and Automation**
-* 💡 Love solving **real-world problems using technology**
-* 🎯 Long Term Goal: **AI Engineer & Tech Entrepreneur**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;BTech+AI+%26+Robotics+Student;Machine+Learning+Enthusiast;Future+Tech+Entrepreneur"/>
+</p>
 
 ---
 
-## 🛠️ Skills
+# 👋 Hi, I'm Krishna Verma
 
-### 💻 Programming Languages
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KrishnaVerma&label=Profile%20views&color=00f7ff&style=flat"/>
+  <img src="https://img.shields.io/github/followers/KrishnaVerma?label=Followers&style=social"/>
+</p>
+
+🎓 BTech CSE (AI & Robotics)
+🤖 Future AI Engineer
+🚀 Goal: Top 10% AI Engineer
+💡 Building Real-World AI Projects
+
+---
+
+# 🤖 AI / ML Stack
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>   Python 🐍
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
 
 </p>
 
-
-C
-C++
-SQL
+Python • NumPy • Pandas • TensorFlow • PyTorch
 
 ---
 
-### 🤖 AI / ML
-
-* Machine Learning (Beginner)
-* Data Analysis
-* NumPy
-* Pandas
-
----
-
-### ⚙️ Tools
+# 💻 Programming Languages
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 
 </p>
 
-Git & GitHub
-VS Code
-Anaconda
-Arduino
+Python • C • C++ • SQL
 
 ---
 
-## 📚 Currently Learning
+# ⚙️ Tools
 
-* Data Structures & Algorithms
-* Machine Learning
-* Git & GitHub Advanced
-* Robotics Programming
-* SQL Advanced
-* C++ for Problem Solving
+<p align="left">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
 
-## 📊 GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=crishnaverma\&show_icons=true\&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="55"/>
 
-## 🔥 Streak Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=crishnaverma\&theme=tokyonight)
+</p>
 
 ---
 
-## 🌐 Connect with me
+# 📊 GitHub Stats
 
-GitHub: https://github.com/crishnaverma
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KrishnaVerma&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVerma&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
+# 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=KrishnaVerma&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+✔ Machine Learning
+✔ Data Structures
+✔ Robotics
+✔ AI Projects
+
+---
+
+# 🌐 Connect with me
+
+https://github.com/KrishnaVerma
+
+---
+
+# 🚀 Mission
+
+Become **World Class AI Engineer**
