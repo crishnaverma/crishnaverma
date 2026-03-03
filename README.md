@@ -110,7 +110,7 @@ Arduino
 
 ## 🌐 Connect with me
 
-GitHub: https://github.com/KrishnaVerma
+GitHub: https://github.com/crishnaverma
 
 ---
 
@@ -120,7 +120,7 @@ I am preparing myself to become a **World Class AI Engineer** 🚀
 
 # 🌐 Connect with me
 
-https://github.com/KrishnaVerma
+https://github.com/crishnaverma
 
 ---
 
