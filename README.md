@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Python, C++, SQL, Data Structures, Machine Learning**
+* 🌱 Currently learning Data Structures, Machine Learning**
 * 🤖 Interested in **AI, Robotics, and Automation**
 * 💡 Love solving **real-world problems using technology**
 * 🎯 Long Term Goal: **AI Engineer & Tech Entrepreneur**
@@ -50,24 +50,12 @@
 
 ### ⚙️ Tools
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
-
-</p>
-
-Git & GitHub
-VS Code
-Anaconda
-Arduino
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -75,10 +63,8 @@ Arduino
 
 * Data Structures & Algorithms
 * Machine Learning
-* Git & GitHub Advanced
 * Robotics Programming
-* SQL Advanced
-* C++ for Problem Solving
+
 
 ---
 
@@ -99,10 +85,6 @@ Arduino
 GitHub: https://github.com/crishnaverma
 
 ---
-
-## ⚡ Fun Fact
-
-I am preparing myself to become a **World Class AI Engineer** 🚀
 
 # 🌐 Connect with me
 
