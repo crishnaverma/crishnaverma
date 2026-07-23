@@ -32,13 +32,19 @@
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-| Language | Icon |
-|----------|------|
-| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> |
-| C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> |
-| C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> |
-| SQL (MySQL) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> |
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+</p>
+
+<p>
+  <strong>Python</strong> 🐍 &nbsp;&nbsp;
+  <strong>C</strong> &nbsp;&nbsp;
+  <strong>C++</strong> &nbsp;&nbsp;
+  <strong>SQL (MySQL)</strong>
+</p>|
 
 ---
 
