@@ -55,18 +55,17 @@
 
 | Project | Description |
 |---|---|
-| **[Ai_ML](https://github.com/crishnaverma/Ai_ML)** | Growing collection of ML projects & notes — KNN (diabetes prediction), Linear Regression (house price, R² 0.62 → 0.82 with Random Forest), Logistic Regression (employee turnover, heart disease), Naive Bayes, and a KNN classifier implemented from scratch |
+| **[Ai_ML](https://github.com/crishnaverma/Ai__ML)** | Growing collection of ML projects & notes — KNN (diabetes prediction), Linear Regression (house price, R² 0.62 → 0.82 with Random Forest), Logistic Regression (employee turnover, heart disease), Naive Bayes, and a KNN classifier implemented from scratch |
 | **Line-Following Robot — COGNITIA'26** | PID-controlled line follower with dynamic speed zones, built on TB6612FNG motor driver + N20 motors + IR sensor array |
 | **ESP32 Bluetooth Air Mouse** | BLE HID air mouse using an ESP32 + MPU6050 gyroscope |
 
-> Pin these three (or your best ones) on your profile — click "Customize your pins" on your GitHub homepage.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=crishnaverma&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra1.vercel.app/api?username=crishnaverma&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crishnaverma&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
