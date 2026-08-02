@@ -1,9 +1,10 @@
+<h1 align="center">Krishna Verma</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Krishna%20Verma&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=BTech%20CSE%20%7C%20AI%20%26%20Robotics&descAlignY=58&descSize=16&descColor=cbd5e1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BTech+CSE+%7C+AI+%26+Robotics;Machine+Learning+%2F+Building+from+Scratch;Robotics+%26+Embedded+Systems"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Machine+Learning+Enthusiast;Building+ML+from+Scratch+%F0%9F%93%8A;Robotics+%2B+Embedded+Systems+%F0%9F%A4%96;Learning+in+Public+%2C+Every+Day"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Also%20Into-Robotics-38BDF8?style=flat-square"/>
 </p>
 
 <p align="center">
