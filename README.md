@@ -8,9 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/crishnaverma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Add your LinkedIn / email badges here once you have public links, e.g.: -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-  <!-- <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="mailto:crishnaverma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/crishnaverma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -33,6 +32,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML & Data**
 
@@ -64,7 +65,6 @@
 | ├─ Purchase Intent Prediction (ShopSmart) | Decision Tree classifier with pruning, optimized for F1-score on an imbalanced 12k-session dataset |
 | └─ Heart Disease Prediction | Logistic Regression classification |
 | **Line-Following Robot — COGNITIA'26** | PID-controlled line follower with dynamic speed zones, built on TB6612FNG motor driver + N20 motors + IR sensor array |
-| **ESP32 Bluetooth Air Mouse** | BLE HID air mouse using an ESP32 + MPU6050 gyroscope |
 
 
 ---
