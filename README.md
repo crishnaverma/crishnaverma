@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Krishna%20Verma&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=BTech%20CSE%20%7C%20AI%20%26%20Robotics&descAlignY=58&descSize=16&descColor=cbd5e1"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BTech+CSE+(AI+%26+Robotics)+Student;Machine+Learning+Enthusiast;Building+in+Public+%7C+Learning+Every+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Machine+Learning+Enthusiast;Building+ML+from+Scratch+%F0%9F%93%8A;Robotics+%2B+Embedded+Systems+%F0%9F%A4%96;Learning+in+Public+%2C+Every+Day"/>
 </p>
 
 <p align="center">
