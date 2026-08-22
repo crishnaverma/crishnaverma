@@ -1,6 +1,6 @@
 <h1 align="center">Krishna Verma</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BTech+CSE+%7C+AI+%26+Robotics;Machine+Learning+%2F+Enthusiast;Robotics+%26+Embedded+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BTech+CSE+%7C+AI+%26+Robotics;Machine+Learning+Enthusiast;Robotics+%26+Embedded+Systems"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-38BDF8?style=flat-square"/>
