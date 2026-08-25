@@ -57,7 +57,7 @@
 
 | Project | Description |
 |---|---|
-| **[Ai_ML](https://github.com/crishnaverma/Ai_ML)** | Growing collection of supervised ML projects & notes |
+| **[Ai__ML](https://github.com/crishnaverma/Ai__ML)** | Growing collection of supervised ML projects & notes |
 | ├─ House Price Prediction | Linear Regression → Random Forest, R² improved 0.62 → 0.82; handled NaNs & the dummy-variable trap |
 | ├─ Diabetes Prediction | KNN classifier, plus a from-scratch KNN implementation for the underlying math |
 | ├─ Iris Species Classification | Compared KNN, Logistic Regression & Naive Bayes on a deliberately handicapped split (50% train / 100% test) |
