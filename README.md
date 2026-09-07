@@ -18,7 +18,7 @@
 ### 👋 About Me
 
 - 🎓 BTech CSE (AI & Robotics) student
-- 🌱 Currently deep in **Machine Learning fundamentals** — Deep Learning, ANN(Linear/Logistic Regression), ANN — and building intuition by implementing algorithms from scratch alongside library versions
+- 🌱 Currently deep in **Machine Learning fundamentals** — Deep Learning, ANN(Linear/Logistic Regression), FNN, CNN, Computer Vision — and building intuition by implementing algorithms from scratch alongside library versions
 - 🤖 Also into **competitive robotics** — recently built a line-following robot (PID control, TB6612FNG driver) for COGNITIA'26
 - 💡 Learning Git/GitHub properly, not just copy-pasting commands
 - 🎯 Long-term goal: become a top-tier AI engineer
