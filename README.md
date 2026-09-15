@@ -58,95 +58,18 @@
 
 ### 📂 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>
-          <a href="https://github.com/crishnaverma/Ai__ML">Ai__ML</a>
-        </strong>
-      </td>
-      <td>Growing collection of supervised ML projects &amp; notes</td>
-    </tr>
-
-    <tr>
-      <td>├─ House Price Prediction</td>
-      <td>
-        Linear Regression → Random Forest, R² improved 0.62 → 0.82;
-        handled NaNs &amp; the dummy-variable trap
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Diabetes Prediction</td>
-      <td>
-        KNN classifier, plus a from-scratch KNN implementation for the
-        underlying math
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Iris Species Classification</td>
-      <td>
-        Compared KNN, Logistic Regression &amp; Naive Bayes on a deliberately
-        handicapped split (50% train / 100% test)
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Employee Turnover Prediction</td>
-      <td>
-        Baseline Logistic Regression improved with L1/L2 regularization on
-        engineered features
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Loan Approval (CreditWise)</td>
-      <td>
-        Logistic Regression, KNN &amp; Naive Bayes compared on imbalanced data,
-        with EDA, encoding &amp; feature engineering
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Purchase Intent Prediction (ShopSmart)</td>
-      <td>
-        Decision Tree classifier with pruning, optimized for F1-score on an
-        imbalanced 12k-session dataset
-      </td>
-    </tr>
-
-    <tr>
-      <td>├─ Heart Disease Prediction</td>
-      <td>Logistic Regression classification</td>
-    </tr>
-
-    <tr>
-      <td>├─ CNN for MNIST</td>
-      <td>
-        Convolutional Neural Network for handwritten digit classification
-        using the MNIST dataset
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <strong>Line-Following Robot — COGNITIA'26</strong>
-      </td>
-      <td>
-        PID-controlled line follower with dynamic speed zones, built on
-        TB6612FNG motor driver + N20 motors + IR sensor array
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | Description |
+|---|---|
+| **[Ai__ML](https://github.com/crishnaverma/Ai__ML)** | Growing collection of supervised ML projects & notes |
+| ├─ House Price Prediction | Linear Regression → Random Forest, R² improved 0.62 → 0.82; handled NaNs & the dummy-variable trap |
+| ├─ Diabetes Prediction | KNN classifier, plus a from-scratch KNN implementation for the underlying math |
+| ├─ Iris Species Classification | Compared KNN, Logistic Regression & Naive Bayes on a deliberately handicapped split (50% train / 100% test) |
+| ├─ Employee Turnover Prediction | Baseline Logistic Regression improved with L1/L2 regularization on engineered features |
+| ├─ Loan Approval (CreditWise) | Logistic Regression, KNN & Naive Bayes compared on imbalanced data, with EDA, encoding & feature engineering |
+| ├─ Purchase Intent Prediction (ShopSmart) | Decision Tree classifier with pruning, optimized for F1-score on an imbalanced 12k-session dataset |
+| ├─ Heart Disease Prediction | Logistic Regression classification |
+| └─ **CNN for MNIST** | Convolutional Neural Network for handwritten digit classification using the MNIST dataset |
+| **Line-Following Robot — COGNITIA'26** | PID-controlled line follower with dynamic speed zones, built on TB6612FNG motor driver + N20 motors + IR sensor array |
 
 
 ---
